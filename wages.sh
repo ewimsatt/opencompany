@@ -7,6 +7,7 @@
 min_wage=7.25
 year_hours=2080
 
+# Next to sections to be moved to a .conf
 # Minimum Wage Max Salary Multipliers
 assoc_max=2.5
 analyst_max=3.5
@@ -89,9 +90,4 @@ echo "Directors manage four teams. Our first director is hired when monthly net 
 #	esac
 #done
 
-# To Do: Set up minimum monthly retainer work needed to hire at each position.
-# Example: 	$X monthly to hire one Associate. Multiples of that for multiple hires.
-#		Y Associates need a manager which would in total need $X/mo in retainer work.
-# And so on..
-# 
 # Also needed is a percentage of yearly net to go to profit sharing and what percentage each employee level gets minus time not at company..
